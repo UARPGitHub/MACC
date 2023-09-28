@@ -1,6 +1,8 @@
 ## User Guide
-
 BoM and assembly instructions can be found in our [User Guide](https://github.com/UARPGitHub/MACC/wiki).
+
+## Publication
+[An Open Access Chamber Designed for the Acoustic Characterisation of Microbubbles.](https://www.mdpi.com/1492210)
 
 ## License
 [![CC BY 4.0][cc-by-image]][cc-by] 
